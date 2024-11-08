@@ -5,6 +5,7 @@ Preliminary repository for the XAI PhD course
 - **Book Reference**: [Explainable AI: Interpreting, Explaining and Visualizing Deep Learning](https://link.springer.com/book/10.1007/978-3-031-04083-2)
 
 ### Explanation Techniques
+Selection based on [spreadsheet](https://docs.google.com/spreadsheets/d/1D41GaAqRkuMvUVMxbuyQux-gFpiGhWhEwc6pWi3HtDI/edit?gid=0#gid=0)
 
 - **TCAV (Testing with Concept Activation Vectors)**  
   Repository: [tensorflow/tcav](https://github.com/tensorflow/tcav)
