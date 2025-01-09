@@ -26,6 +26,7 @@ Selection based on [spreadsheet](https://docs.google.com/spreadsheets/d/1D41GaAq
   Repositories:  
   - [chr5tphr/zennit](https://github.com/chr5tphr/zennit)  
   - [albermax/innvestigate](https://github.com/albermax/innvestigate)
+  - [Captum](https://github.com/pytorch/captum)
 
 - **Deep Taylor Decomposition**  
   Repositories:  
