@@ -27,6 +27,10 @@ Selection based on [spreadsheet](https://docs.google.com/spreadsheets/d/1D41GaAq
   - [chr5tphr/zennit](https://github.com/chr5tphr/zennit)  
   - [albermax/innvestigate](https://github.com/albermax/innvestigate)
   - [Captum](https://github.com/pytorch/captum)
+    
+    ![output_LRP_2](https://github.com/user-attachments/assets/73248931-7578-405c-9d06-601d43e3ea19)
+    ![output_LRP](https://github.com/user-attachments/assets/abc9ba48-46f8-4f4d-912b-6a8f5ac20379)
+
 
 - **Deep Taylor Decomposition**  
   Repositories:  
